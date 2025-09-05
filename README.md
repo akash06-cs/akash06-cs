@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akash ($hellGh05t3r)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **HoneySentinel AI** (Cybersecurity + AI project)  
+- 🔭 I’m currently working on **HoneySentinel AI** (Cybersecurity + AI project) and **Rubber Ducky** using (Attiny 85 USB)
 - 🛠️ I’m looking to collaborate on **Cybersecurity & Open Source projects**  
 - 🌱 I’m currently learning **Red Teaming & Advanced Python**  
 - 💬 Ask me about **CTFs, Python, C, and Cybersecurity tools**  
